@@ -1,0 +1,13 @@
+.navbar{
+    border: 1px solid white;
+    border-radius: 15px;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+}
+.navbar >ul >li{
+    /* border: 1px solid green; */
+    padding: 2rem;
+    margin: 1rem;
+}
